@@ -10,3 +10,5 @@ id,label
 3,0
 etc...
 ```
+
+Kaggle Cats and Dogs Dataset: https://www.microsoft.com/en-us/download/details.aspx?id=54765
